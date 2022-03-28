@@ -856,8 +856,7 @@ var __vue_render__ = function() {
                         view.position +
                         "px)"
                     }
-                  : null,
-                attrs: { title: "testar" }
+                  : null
               },
               _vm.detectHover
                 ? {

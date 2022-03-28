@@ -1326,8 +1326,7 @@
                           view.position +
                           "px)"
                       }
-                    : null,
-                  attrs: { title: "testar" }
+                    : null
                 },
                 _vm.detectHover
                   ? {
